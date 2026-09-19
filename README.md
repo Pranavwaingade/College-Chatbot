@@ -74,6 +74,6 @@ It also provides an Admin Panel where administrators can manage student data, no
 
 ## 👨‍💻 Author
 
-- Name: Pranav Annaso Savita Waingade
+- Name: Pranav Annaso Waingade
 - College: Pratibha Skill Development Center  
 - Course:  MERN STACK
